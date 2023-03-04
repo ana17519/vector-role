@@ -1,5 +1,5 @@
 ---
-- hosts: 158.160.49.15
+- hosts: localhost
   remote_user: root
   roles:
     - vector-role
